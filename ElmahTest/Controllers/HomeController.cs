@@ -9,7 +9,7 @@ namespace ElmahTest.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index(DateTime? mydata)
+        public ActionResult Index(DateTime? sdata, DateTime? edata)
         {
 
             MYBal x = new MYBal();

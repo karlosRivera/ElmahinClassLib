@@ -15,7 +15,7 @@ namespace ElmahTest
 
             routes.MapRoute(
                 name: "",
-                url: "{controller}/{action}/{mydata}",
+                url: "{controller}/{action}/{sdata}/{edata}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
 
