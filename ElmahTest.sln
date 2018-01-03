@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElmahTest", "ElmahTest\Elma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmah.Centralize", "Elmah.Centralize\Elmah.Centralize.csproj", "{81FC7B43-9044-44E2-85B1-F6AB0C2E7CD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmah.BAL", "Elmah.BAL\Elmah.BAL.csproj", "{F8AF9DA8-2E01-4E77-818B-4D9CC67E4A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81FC7B43-9044-44E2-85B1-F6AB0C2E7CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81FC7B43-9044-44E2-85B1-F6AB0C2E7CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81FC7B43-9044-44E2-85B1-F6AB0C2E7CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AF9DA8-2E01-4E77-818B-4D9CC67E4A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AF9DA8-2E01-4E77-818B-4D9CC67E4A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AF9DA8-2E01-4E77-818B-4D9CC67E4A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AF9DA8-2E01-4E77-818B-4D9CC67E4A41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
